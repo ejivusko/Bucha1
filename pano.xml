@@ -14,7 +14,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" tilt="90"/>
     </view>
-    <userdata title="" copyright="" comment="" info="" heading="0" customnodeid="" latitude="" description="" author="" nodeid="node3" datetime="" longitude="" source="" tags="rnd|01"/>
+    <userdata title="Варіант 1" copyright="" comment="" info="" heading="0" customnodeid="" latitude="" description="" author="" nodeid="node3" datetime="" longitude="" source="" tags="01|rnd"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label borderradius="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" enabled="0" background="1" width="180" height="20" borderalpha="1" textalpha="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="0"/>
@@ -39,7 +39,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" tilt="90"/>
     </view>
-    <userdata title="" copyright="" comment="" info="" heading="0" customnodeid="" latitude="" description="" author="" nodeid="node2" datetime="" longitude="" source="" tags="rnd|02"/>
+    <userdata title="Варіант 2" copyright="" comment="" info="" heading="0" customnodeid="" latitude="" description="" author="" nodeid="node2" datetime="" longitude="" source="" tags="02|rnd"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label borderradius="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" bordercolor="0x000000" enabled="0" background="1" width="180" height="20" borderalpha="1" textalpha="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" borderalpha="1" handcursor="0"/>
